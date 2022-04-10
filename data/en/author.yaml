@@ -7,15 +7,17 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "Vibhu@pwsh.in"
-  phone: "+918979989222;9456001003"
-  github: johndoe
+  phone: "8979989222 ; 9456001003"
+  github: vibhu2
   linkedin: johndoe
 
 # some summary about what you do
 summary:
   - I am a Wintel Admin
+  - I love Troubleshooting
   - I am a Powershell Developer
+  - I am Learning Python
   - I am a Devops student
   - I love Servers
-  - I to play with Softwares
+  - I love to play with Softwares
   - I Love Technology

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: আমার-সম্পর্কে
+  name: Vibhu Bhatnagar
   id: about
   enable: true
   weight: 1
@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Advanced IT Administrator
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: IT By Design
+  url: "https://itbd.net/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'আমি X বছর অভিজ্ঞতা সম্পন্ন একজন দক্ষ সফটওয়্যার ইঞ্জিনিয়ার । আমি Go ভাষা ব্যবহার  করে [Kubernetes](https://kubernetes.io/) এর জন্য ওপেন সোর্স টুল তৈরি করি । মাঝে মাঝে আমি থিম বানানোর মত মজার প্রোজেক্ট নিয়ে কাজ করি ।'
+summary: 'I am a passionate IT Professional with 13 years of working experience. I Write Scripts and manage IT infrastructure for [ITBD](https://itbd.net/) using Powershell. My tools help people to Manage their work and refracture in their Enviornment. Sometimes, I work on some fun projects such as writing scripts to Automate a entire Process like migration and Upgrades, etc.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
